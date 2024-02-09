@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dale-guantia&label=Profile%20views&color=0e75b6&style=flat" alt="dale-guantia" /> </p>
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **dalefguantia@gmail.com**
 
