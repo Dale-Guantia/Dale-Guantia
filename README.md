@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dalefguantia@gmail.com**
 
-- 📄 Check my CV/Resume [https://daleguantia.vercel.app/assets/Guantia,Dale-CV.pdf](https://daleguantia.vercel.app/assets/Guantia,Dale-CV.pdf)
+- 📄 Check my CV/Resume [https://daleguantia.vercel.app/assets/Guantia,Dale-CV.pdf](https://daleguantia.vercel.app/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
