@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dale F. Gantia</h1>
-<h3 align="center">A passionate Developer from Philippines</h3>
+<h3 align="center">A Junior Developer from Philippines</h3>
 <img align="right" alt="Coding" width="200" src="https://daleguantia.vercel.app/assets/Icon1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dale-guantia&label=Profile%20views&color=0e75b6&style=flat" alt="dale-guantia" /> </p>
 
